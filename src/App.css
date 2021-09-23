@@ -1,9 +1,11 @@
 h1{
 text-align: center;
 color:red;
+font-family: Arial, Helvetica, sans-serif;
+padding: "10px",
 }
 body{
-    background-image:url('https://camo.githubusercontent.com/4ff53e3af0fe34883bb91ccbdade7d9d72e77ef215d85378c5f764e15b00e7b5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6672616e63696e696c646f2f696d6167652f75706c6f61642f76313536383636303935392f477275706f5f312e706e67');
+    background-image:url('https://img.freepik.com/free-photo/small-white-airplanes-ready-starting-flight_23-2148169855.jpg?size=626&ext=jpg');
 }
 .image1 {
   padding :"20px";
@@ -11,12 +13,24 @@ body{
    align-items: center;
    width: 320;
    height: 240 ;
+  
 
 }
 p{
   text-align: center;  
   color: blue;
   background: burlywood;
+  font-style: italic;
   
 
+}
+img, svg {
+  height: 13.9rem;
+  margin: auto;
+  display: block;
+  vertical-align: middle;
+}
+#videoo {
+  margin: auto;
+  display: block;
 }
